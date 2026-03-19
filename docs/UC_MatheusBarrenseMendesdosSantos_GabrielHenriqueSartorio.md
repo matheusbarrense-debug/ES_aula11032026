@@ -42,6 +42,7 @@ Permitir que o usuário acesse o sistema.
 - RNF01, RNF02, RNF04
 
 ### RN Relacionadas
+<img width="966" height="244" alt="UC01_Login" src="https://github.com/user-attachments/assets/665a9e77-6b01-406b-8ed2-4d0a6c981125" />
 
 - RN01, RN06
 
@@ -88,6 +89,7 @@ O sistema alerta que o aluno já possui registro e sugere a reativação da matr
 ### RN Relacionadas
 
 - RN06
+<img width="630" height="286" alt="UC02_CadastrarAluno" src="https://github.com/user-attachments/assets/9ab7f4de-69ce-4c0a-89ab-94276916a2be" />
 
 ---
 
@@ -134,6 +136,7 @@ O sistema impede a operação conforme regra de negócio.
 ### RN Relacionadas
 
 - RN04, RN07
+<img width="686" height="287" alt="UC03_CasoDeUso" src="https://github.com/user-attachments/assets/f7a45bec-3da2-4f53-b33c-3f725784c1c1" />
 
 ---
 
@@ -178,6 +181,7 @@ O sistema nega o acesso e exibe mensagem "Procure a recepção".
 ### RN Relacionadas
 
 - RN01
+<img width="917" height="307" alt="UC04_CasoDeUso" src="https://github.com/user-attachments/assets/29c1ed3f-e56b-4998-8b12-d2a788964262" />
 
 ---
 
@@ -223,6 +227,7 @@ O sistema impede o agendamento e oferece opção de "Lista de Espera".
 ### RN Relacionadas
 
 - RN02, RN06
+<img width="693" height="308" alt="UC05_CasoDeUso" src="https://github.com/user-attachments/assets/3b8dd33f-061f-4849-92ed-8ee83ea1e2b2" />
 
 ---
 
@@ -269,6 +274,8 @@ O sistema bloqueia o preenchimento da avaliação.
 
 - RN05, RN06
 
+<img width="667" height="295" alt="UC06_CasoDeUso" src="https://github.com/user-attachments/assets/89de61b5-489e-4f78-85ed-a1c250041201" />
+
 ---
 
 ## UC07 — Emitir Relatório de Inadimplência
@@ -307,6 +314,7 @@ Identificar alunos com pagamentos atrasados para ações de cobrança.
 ### RN Relacionadas
 
 - RN06
+<img width="655" height="297" alt="UC07_CasoDeUso" src="https://github.com/user-attachments/assets/d6ce2d4a-8ce7-47fa-8dbf-37e7bf86de6c" />
 
 ## UC08 — Criar/Editar Plano
 
@@ -349,6 +357,7 @@ O gerente marca um plano como inativo; ele deixa de ser oferecido para novos alu
 ### RN Relacionadas
 
 - RN06
+<img width="664" height="302" alt="UC08_CasoDeUso" src="https://github.com/user-attachments/assets/70dd1599-80f5-4090-bdd1-2d30a808d8fa" />
 
 ---
 
@@ -393,6 +402,7 @@ O sistema impede o cancelamento e informa que a antecedência mínima é de 1 ho
 ### RN Relacionadas
 
 - RN03
+<img width="671" height="298" alt="UC09_CasoDeUso" src="https://github.com/user-attachments/assets/78c5092f-5b43-4ee9-9dd0-6204a20512f2" />
 
 ---
 
@@ -436,6 +446,7 @@ O instrutor pode adicionar manualmente um aluno presente, desde que haja vaga.
 ### RN Relacionadas
 
 - RN06
+<img width="796" height="307" alt="UC10_CasoDeUso" src="https://github.com/user-attachments/assets/887e6329-cbd7-400c-aa22-15ba580d56dd" />
 
 ---
 
@@ -476,6 +487,7 @@ Alertar o aluno sobre o vencimento próximo da mensalidade.
 - (Nenhuma relacionada)
 
 ---
+<img width="710" height="433" alt="caso11" src="https://github.com/user-attachments/assets/17a9b94e-2e23-42b4-a773-14864abdd716" />
 
 ## UC12 — Gerar Relatório de Alunos Ativos
 
@@ -512,6 +524,7 @@ Extrair o quantitativo de alunos que utilizam a unidade.
 ### RN Relacionadas
 
 - RN06
+<img width="535" height="387" alt="caso 12" src="https://github.com/user-attachments/assets/e7ad8e45-727d-4bff-8f33-140164905498" />
 
 ## UC13 — Registrar Manutenção de Equipamento
 
@@ -554,6 +567,7 @@ O sistema notifica o gerente imediatamente via app.
 ### RN Relacionadas
 
 - RN06
+<img width="664" height="480" alt="caso13" src="https://github.com/user-attachments/assets/05becd12-9ec8-46d1-8d5d-12dfd9c1a337" />
 
 ---
 
@@ -598,6 +612,7 @@ O sistema emite alerta mas permite a venda caso o gerente autorize manualmente.
 ### RN Relacionadas
 
 - RN06
+<img width="563" height="571" alt="caso 14" src="https://github.com/user-attachments/assets/6af830c7-a686-4645-97d6-61da72808f50" />
 
 ---
 
@@ -642,6 +657,7 @@ O sistema impede a operação se o aluno já usou todos os dias permitidos no co
 ### RN Relacionadas
 
 - RN06
+<img width="570" height="521" alt="caso15" src="https://github.com/user-attachments/assets/e2b5e83f-952c-45bc-9d31-98bc1915188f" />
 
 ---
 
@@ -687,6 +703,7 @@ O sistema apenas libera a vaga para o público geral.
 ### RN Relacionadas
 
 - RN02
+<img width="659" height="401" alt="caso 16" src="https://github.com/user-attachments/assets/424fbd7c-ecf7-4d8b-9123-beb6579be759" />
 
 ---
 
@@ -731,6 +748,7 @@ O sistema exibe mensagem de erro e mantém o valor original.
 ### RN Relacionadas
 
 - RN06
+<img width="550" height="478" alt="caso17" src="https://github.com/user-attachments/assets/c8bce944-8440-4806-b07b-36bf001acdc2" />
 
 ---
 
@@ -774,6 +792,7 @@ O sistema informa que é necessária uma nova avaliação para gerar o gráfico.
 ### RN Relacionadas
 
 - (Nenhuma relacionada)
+<img width="558" height="495" alt="caso18" src="https://github.com/user-attachments/assets/f5bb1a9f-5abb-498a-b257-35ed1a0980b4" />
 
 ---
 
@@ -818,6 +837,7 @@ O recepcionista insere uma observação justificando a diferença antes de salva
 ### RN Relacionadas
 
 - RN06
+<img width="582" height="480" alt="caso19" src="https://github.com/user-attachments/assets/476b4e36-1a7c-4229-86d3-592a745d07e8" />
 
 ---
 
@@ -862,3 +882,4 @@ O sistema bloqueia a nova solicitação e sugere os planos vigentes.
 ### RN Relacionadas
 
 - (Nenhuma relacionada)
+<img width="582" height="480" alt="caso19" src="https://github.com/user-attachments/assets/ea330437-0c2b-4974-9ed6-d3d6335c788a" />
